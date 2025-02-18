@@ -53,4 +53,4 @@ Este é um projeto simples de **Amigo Secreto** desenvolvido em JavaScript, HTML
 2. Abra o arquivo `index.html` no seu navegador.
 3. Comece a usar o Amigo Secreto!
 
-Feito com ❤️ por [Kaíza] 🚀
+Feito com ❤️ por Kaíza 🚀
