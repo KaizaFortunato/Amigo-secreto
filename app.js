@@ -34,6 +34,10 @@ function adicionarAmigo() {
 
   let amigoSorteado = listaDeAmigos[amigoAleatorio];
 
+  listaDeAmigos = [];
+
+  exibirListaDeAmigo();
+
   let resultado = document.getElementById('resultado');
   resultado.innerHTML = `<li>Amigo sorteado: ${amigoSorteado}</li>`;
 
